@@ -134,5 +134,8 @@ public class BitShiftDoubler implements IntegerDoubler {
     return 0;
   }
 
+  public long doDouble33(int i) {
+    return 0;
+  }
 
 }
