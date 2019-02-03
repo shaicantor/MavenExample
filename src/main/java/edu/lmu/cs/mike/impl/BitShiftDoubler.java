@@ -138,4 +138,12 @@ public class BitShiftDoubler implements IntegerDoubler {
     return 0;
   }
 
+  public long doDouble34(int i) {
+    return 0;
+  }
+
+  public String doDouble35(int i) {
+    return "yeah yeah";
+  }
+
 }
