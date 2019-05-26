@@ -14,11 +14,11 @@ public class AdditionDoubler implements IntegerDoubler {
   }
 
   public long doDouble3(int i) {
-    return i + i;
+    return i + 2;
   }
 
   public long doDouble4(int i) {
-    return i + i;
+    return i + 1;
   }
 }
 
